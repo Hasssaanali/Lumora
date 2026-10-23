@@ -1,0 +1,23 @@
+{
+  "name": "Lumora \u2014 Creative Toolkit",
+  "short_name": "Lumora",
+  "description": "Image, CV and PDF tools in one focused workspace.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "background_color": "#070b0c",
+  "theme_color": "#0CB8C0",
+  "icons": [
+    {
+      "src": "/lumora-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

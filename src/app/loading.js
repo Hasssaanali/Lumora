@@ -1,0 +1,1 @@
+export default function Loading(){return <main className="lumora-route-loader" role="status" aria-live="polite"><div className="lumora-loader-mark">L</div><div className="lumora-loader-ring"/><strong>Lumora</strong><span>Preparing your workspace</span></main>}
